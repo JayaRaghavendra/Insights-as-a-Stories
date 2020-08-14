@@ -2,6 +2,8 @@
 
 Find the curated list of all my posts here:⬇️
 
+
+
 # 
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
@@ -10,7 +12,7 @@ This is a curated list of all my posts on LinkedIn regarding Data Science, which
 --------------
 --------------
 ### > Day 0: Air Pollution in INDIA
-Link: https://www.linkedin.com/posts/jayaraghavendra_datastory-datascientist-dataviz-activity-6606398178264739840-FU7g
+Links : [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/posts/jayaraghavendra_datastory-datascientist-dataviz-activity-6606398178264739840-FU7g) 
 -------
 ### > Day 1: Share of Urban Population Living in Slums
 Link: https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-comicgenfriday-comicgen-activity-6696447617964027904-HbSa
