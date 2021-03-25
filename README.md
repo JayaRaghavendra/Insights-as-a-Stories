@@ -20,6 +20,9 @@ This repository was inspired from [Gramener Comicgen Friday](https://gramener.co
 
 Make your Data story creative & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
+Last updated : 25th Mar 2021
+
+---
 - [Day 5: US early election 2020](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
   <details>
     <summary>Preview</summary>
