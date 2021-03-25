@@ -1,17 +1,16 @@
-# Insights-as-Stories ----- Medium-LinkedIn-Daily-Posts
+<!--# Insights-as-Stories ----- Medium-LinkedIn-Daily-Posts
 
-# 
 This is a curated list of all my posts on LinkedIn & Medium regarding Data Science, which I publish daily. Hit the star if you like my work!
---------------
---------------
-##### Last Updated on: 25th MAR 2021 (Day 5)
---------------
 
-# Insights a sStories
+Last Updated on: 25th MAR 2021 (Day 5)-->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme) [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
+# Insights as Stories
 
-Curated list of Insights from datasets for your inspiration.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/JayaRaghavendra/Insights-as-Stories/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/JayaRaghavendra/Insights-as-Stories/pulls) 
+
+Curated list of Insights from different datasets for your inspiration.
 
 Follow this guide: [How to create comics with Comicgen ](https://www.youtube.com/watch?v=E_2hdZuugI8&ab_channel=Gramener)
 
@@ -19,7 +18,7 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 This repository was inspired from [Gramener Comicgen Friday](https://gramener.com/comicgenfriday/).
 
-Make your Profile look good & Inspire other's. Don't forget to leave :star: if you found this helpful.
+Make your Data story creative & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
 - [Day 5: US early election 2020](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
   <details>
