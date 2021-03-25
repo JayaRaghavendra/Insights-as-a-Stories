@@ -4,7 +4,7 @@ This is a curated list of all my posts on LinkedIn & Medium regarding Data Scien
 
 Last Updated on: 25th MAR 2021 (Day 5)-->
 
-# Insights as Stories
+# Insights as a Stories
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/JayaRaghavendra) 
 [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/JayaRaghavendra/Insights-as-Stories/issues)
