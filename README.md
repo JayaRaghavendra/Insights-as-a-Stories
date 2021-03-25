@@ -18,6 +18,8 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 This repository was inspired from [Gramener Comicgen Friday](https://gramener.com/comicgenfriday/)'s initiative.
 
+Follow #Insightsasastories on Linkedin 
+
 Make your Data story creative & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
 <sub>Last updated : 25th Mar 2021 </sub>
