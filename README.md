@@ -25,37 +25,49 @@ Make your Data story creative & Inspire other's. Don't forget to leave :star: if
 <sub>Last updated : 25th Mar 2021 </sub>
 
 ---
-- [Day 5: US early election 2020](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
+- [Day 8: Gender differences in Height (1896-1996)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
+  <details>
+    <summary>Preview</summary>
+    <img src="Data Stories/Gender Heights.PNG">
+  </details>
+
+- [Day 7: Nuclear Warhead (1945-2015)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
+  <details>
+    <summary>Preview</summary>
+    <img src="Data Stories/NWarheads.gif">
+  </details>
+
+- [Day 6: US early election 2020](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/US2020.PNG">
   </details>
 
-- [Day 4: First ever James Bond died](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729452587264933888--Jw1)
+- [Day 5: First ever James Bond died](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729452587264933888--Jw1)
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/JB007.png">
   </details>
 
-- [Day 3: International Lefthanders Day](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-here-storytelling-activity-6699732825203183616-LVxN)
+- [Day 4: International Lefthanders Day](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-here-storytelling-activity-6699732825203183616-LVxN)
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/left.jpg">
   </details>
   
-- [Day 2: Vegetarians Vs Non-Vegetarians in INDIA](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-kaggle-datascience-activity-6698757914405994496-SvuA)
+- [Day 3: Vegetarians Vs Non-Vegetarians in INDIA](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-kaggle-datascience-activity-6698757914405994496-SvuA)
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/Veg NonVeg.png">
   </details>
   
-- [Day 1: Share of Urban Population Living in Slums](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-comicgenfriday-comicgen-activity-6696447617964027904-HbSa)
+- [Day 2: Share of Urban Population Living in Slums](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-comicgenfriday-comicgen-activity-6696447617964027904-HbSa)
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/urban population.jfif">
   </details>
 
-- [Day 0: Air Pollution in INDIA](https://www.linkedin.com/posts/jayaraghavendra_datastory-datascientist-dataviz-activity-6606398178264739840-FU7g)
+- [Day 1: Air Pollution in INDIA](https://www.linkedin.com/posts/jayaraghavendra_datastory-datascientist-dataviz-activity-6606398178264739840-FU7g)
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/air pollution.jpg">
