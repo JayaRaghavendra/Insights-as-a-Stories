@@ -25,6 +25,12 @@ Make your Data story creative & Inspire other's. Don't forget to leave :star: if
 <sub>Last updated : 25th Mar 2021 </sub>
 
 ---
+- [Day 9: Notes Circulation in India (1978-2019)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
+  <details>
+    <summary>Preview</summary>
+    <img src="Data Stories/notes circulation.gif">
+  </details>
+
 - [Day 8: Gender differences in Height (1896-1996)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
   <details>
     <summary>Preview</summary>
@@ -52,7 +58,7 @@ Make your Data story creative & Inspire other's. Don't forget to leave :star: if
 - [Day 4: International Lefthanders Day](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-here-storytelling-activity-6699732825203183616-LVxN)
   <details>
     <summary>Preview</summary>
-    <img src="Data Stories/left.jpg">
+    <img src="Data Stories/left handers.jpg">
   </details>
   
 - [Day 3: Vegetarians Vs Non-Vegetarians in INDIA](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-kaggle-datascience-activity-6698757914405994496-SvuA)
