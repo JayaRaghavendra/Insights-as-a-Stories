@@ -25,19 +25,25 @@ Make your Data story creative & Inspire other's. Don't forget to leave :star: if
 <sub>Last updated : 25th Mar 2021 </sub>
 
 ---
-- [Day 9: Notes Circulation in India (1978-2019)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
+- [Day 10: Notes Circulation in India (1978-2019)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
+  <details>
+    <summary>Preview</summary>
+    <img src="Data Stories/notes circulation.gif">
+  </details>
+  
+- [Day 9: Notes Circulation in India (1978-2019)](https://github.com/JayaRaghavendra/Analysis-on-Notes-Circulation-of-INDIA)
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/notes circulation.gif">
   </details>
 
-- [Day 8: Gender differences in Height (1896-1996)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
+- [Day 8: Gender differences in Height (1896-1996)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6754459964045193216--cOL)
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/Gender Heights.PNG">
   </details>
 
-- [Day 7: Nuclear Warhead (1945-2015)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
+- [Day 7: Nuclear Warhead (1945-2015)](nothing)
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/NWarheads.gif">
