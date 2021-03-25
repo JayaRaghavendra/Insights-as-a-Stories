@@ -4,8 +4,7 @@
 This is a curated list of all my posts on LinkedIn & Medium regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 4th Nov 2020 (Day 5)
---------------
+##### Last Updated on: 25th MAR 2021 (Day 5)
 --------------
 - [Day 5: US early election 2020](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
   <details>
