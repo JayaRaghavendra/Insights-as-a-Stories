@@ -6,7 +6,7 @@ Last Updated on: 25th MAR 2021 (Day 5)-->
 
 # Insights as Stories
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/JayaRaghavendra) 
 [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/JayaRaghavendra/Insights-as-Stories/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/JayaRaghavendra/Insights-as-Stories/pulls) 
 
@@ -16,7 +16,7 @@ Follow this guide: [How to create comics with Comicgen ](https://www.youtube.com
 
 Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repository. Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
-This repository was inspired from [Gramener Comicgen Friday](https://gramener.com/comicgenfriday/).
+This repository was inspired from [Gramener Comicgen Friday](https://gramener.com/comicgenfriday/)'s initiative.
 
 Make your Data story creative & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
