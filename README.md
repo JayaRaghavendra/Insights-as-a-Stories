@@ -25,12 +25,7 @@ Make your Data story creative & Inspire other's. Don't forget to leave :star: if
 <sub>Last updated : 25th Mar 2021 </sub>
 
 ---
-- [Day 10: Notes Circulation in India (1978-2019)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
-  <details>
-    <summary>Preview</summary>
-    <img src="Data Stories/notes circulation.gif">
-  </details>
-  
+
 - [Day 9: Notes Circulation in India (1978-2019)](https://github.com/JayaRaghavendra/Analysis-on-Notes-Circulation-of-INDIA)
   <details>
     <summary>Preview</summary>
@@ -83,5 +78,11 @@ Make your Data story creative & Inspire other's. Don't forget to leave :star: if
   <details>
     <summary>Preview</summary>
     <img src="Data Stories/air pollution.jpg">
+  </details>
+  
+- [Day 0: Hollywood Celebrities Achievements](link)
+  <details>
+    <summary>Preview</summary>
+    <img src="Data Stories/gitsample.gif">
   </details>
 -------
