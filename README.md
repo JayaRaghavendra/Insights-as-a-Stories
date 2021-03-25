@@ -18,7 +18,7 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 This repository was inspired from [Gramener Comicgen Friday](https://gramener.com/comicgenfriday/)'s initiative.
 
-Follow #Insightsasastories on Linkedin 
+Follow [`#Insightsasastories`](#Insightsasastories) on [Linkedin](https://www.linkedin.com/in/jayaraghavendra/) 
 
 Make your Data story creative & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
