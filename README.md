@@ -16,7 +16,9 @@ Follow this guide: [How to create comics with Comicgen ](https://www.youtube.com
 
 Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repository. Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
-[ScreenToGif](https://www.screentogif.com/) software for recording video to GIF
+[ScreenToGif](https://www.screentogif.com/){target="_blank"} software for recording video to GIF
+
+<a href="https://www.screentogif.com/" target="_blank">ScreenToGif</a> software for recording video to GIF
 
 This repository was inspired from [Gramener Comicgen Friday](https://gramener.com/comicgenfriday/)'s initiative.
 
