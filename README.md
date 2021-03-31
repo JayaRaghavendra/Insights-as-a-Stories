@@ -4,7 +4,7 @@ This is a curated list of all my posts on LinkedIn & Medium regarding Data Scien
 
 Last Updated on: 25th MAR 2021 (Day 5)-->
 
-<p align="center"><a href="#"><img width=60% alt="" src="https://raw.githubusercontent.com/JayaRaghavendra/Insights-as-a-Stories/master/Data%20Stories/tellingstorythroughdata_960x540.jpg"></a></p>
+<p align="center"><a href="#"><img width=60% alt="" src="https://raw.githubusercontent.com/JayaRaghavendra/Insights-as-a-Stories/master/Data%20Stories/head.png"></a></p>
   
 <h1 align="center">Insights as a Stories</h1>
 
