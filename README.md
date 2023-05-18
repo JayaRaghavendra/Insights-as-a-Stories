@@ -39,7 +39,7 @@ Make your Data story creative & Inspire other's. Don't forget to leave :star: if
 - [Day 8: Gender differences in Height (1896-1996)](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6754459964045193216--cOL)
   <details>
     <summary>Preview</summary>
-    <img src="Data Stories/Gender Heights.PNG">
+    <img src="Data Stories/height.jpg">
   </details>
 
 - [Day 7: Nuclear Warhead (1945-2015)](nothing)
@@ -51,13 +51,13 @@ Make your Data story creative & Inspire other's. Don't forget to leave :star: if
 - [Day 6: US early election 2020](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729499076267782144-qsm7)
   <details>
     <summary>Preview</summary>
-    <img src="Data Stories/US2020.PNG">
+    <img src="Data Stories/US election.jpg">
   </details>
 
 - [Day 5: First ever James Bond died](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-storytelling-comicfriday-activity-6729452587264933888--Jw1)
   <details>
     <summary>Preview</summary>
-    <img src="Data Stories/JB007.png">
+    <img src="Data Stories/bond.png">
   </details>
 
 - [Day 4: International Lefthanders Day](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-here-storytelling-activity-6699732825203183616-LVxN)
@@ -69,24 +69,24 @@ Make your Data story creative & Inspire other's. Don't forget to leave :star: if
 - [Day 3: Vegetarians Vs Non-Vegetarians in INDIA](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-kaggle-datascience-activity-6698757914405994496-SvuA)
   <details>
     <summary>Preview</summary>
-    <img src="Data Stories/Veg NonVeg.png">
+    <img src="Data Stories/indian eat.png">
   </details>
   
 - [Day 2: Share of Urban Population Living in Slums](https://www.linkedin.com/posts/jayaraghavendra_insightsasastories-comicgenfriday-comicgen-activity-6696447617964027904-HbSa)
   <details>
     <summary>Preview</summary>
-    <img src="Data Stories/urban population.jfif">
+    <img src="Data Stories/urban.jfif">
   </details>
 
 - [Day 1: Air Pollution in INDIA](https://www.linkedin.com/posts/jayaraghavendra_datastory-datascientist-dataviz-activity-6606398178264739840-FU7g)
   <details>
     <summary>Preview</summary>
-    <img src="Data Stories/air pollution.jpg">
+    <img src="Data Stories/pollution.jpg">
   </details>
   
 - [Day 0: Hollywood Celebrities Achievements](link)
   <details>
     <summary>Preview</summary>
-    <img src="Data Stories/gitsample.gif">
+    <img src="Data Stories/Hollywood.gif">
   </details>
 -------
